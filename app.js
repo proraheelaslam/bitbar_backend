@@ -33,6 +33,7 @@ const getConfig = () => {
           "https://8bitbar.vercel.app",
           "https://8bitbar-gilt.vercel.app",
           "https://8bitbar-4m5h.vercel.app",
+          "http://15.207.113.121:3000"
         ]
       : [
           "http://localhost:5173",
