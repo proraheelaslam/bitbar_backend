@@ -39,6 +39,7 @@ const getConfig = () => {
           "http://localhost:5173",
           "http://192.168.31.163:5173",
           "https://test.8bitbar.com.au",
+          "http://15.207.113.121:3000"
         ],
     port: process.env.PORT || 3000,
   };
